@@ -1,0 +1,28 @@
+.main{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(238, 240, 241);
+    border: 1px solid rgb(20, 19, 19);
+    border-radius: 12px;
+    margin-left: 0px;
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(145, 143, 142);
+}
+button{
+    width: 50px;
+    height: 30px;
+    background-color: rgb(57, 57, 221);
+    border-radius: 8px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+.main img{
+    width: 100%;
+    height: 50px;
+    border-radius: 6px;
+    margin: 0;
+}

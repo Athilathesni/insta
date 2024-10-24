@@ -1,0 +1,44 @@
+.main{
+    width: 300px;
+    height: 400px;
+    border: 2px solid rgb(124, 121, 121);
+    border-radius: 5px;
+    margin-left: 500px;
+    margin-top: 100px;
+    box-shadow: 2px 2px 2px 2px whitesmoke;
+}
+h2{
+font-size: 20px;
+margin-left: 30px;
+text-decoration: underline;
+}
+.msub{
+    margin-top: 50px;
+}
+.fm input{
+    width: 150px;
+    height: 20px;
+    margin-left: 20px;
+    
+}
+.fm{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.login{
+    width: 90px;
+    height: 40px;
+    color: white;
+    background-color: rgb(25, 143, 25);
+    border: none;
+    border-radius: 13px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+.login a{
+    text-decoration: none;
+    color: white;
+}
